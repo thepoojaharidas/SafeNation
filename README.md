@@ -50,7 +50,7 @@ Built as a Final Year Project for CM3070 — University of London.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/safenation.git
+git clone https://github.com/thepoojaharidas/safenation.git
 cd safenation
 ```
 
