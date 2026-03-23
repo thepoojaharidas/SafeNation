@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SafeNation2",
-    "slug": "SafeNation2",
+    "name": "SafeNation",
+    "slug": "SafeNation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
