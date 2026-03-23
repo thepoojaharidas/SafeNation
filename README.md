@@ -82,9 +82,9 @@ All 32 unit tests across 8 test suites should pass.
 | ---------------------------------------------- | ---------------------------------------------------- | ------------------------------------------- |
 | ![Home](Screenshots/HomeScreen/homescreen.jpg) | ![Alerts](Screenshots/AlertsScreen/AlertsScreen.jpg) | ![Tasks](Screenshots/TaskScreen/tasks2.jpg) |
 
-| Resources                                             | SOS                                                   | Profile                                                               |
-| ----------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------- |
-| ![Resources](Screenshots/ResourcesScreen/RS1.jpg.png) | ![SOS](Screenshots/SOSscreen/SOS%20Screen.jpgsos.png) | ![Profile](Screenshots/ProfileScreen/profile%20screen.jpgprofile.png) |
+| Resources                                         | SOS                                            | Profile                                                    |
+| ------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+| ![Resources](Screenshots/ResourcesScreen/RS1.jpg) | ![SOS](Screenshots/SOSscreen/SOS%20Screen.jpg) | ![Profile](Screenshots/ProfileScreen/profile%20screen.jpg) |
 
 ---
 
