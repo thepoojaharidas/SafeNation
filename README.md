@@ -2,9 +2,8 @@
 
 A mobile application built with React Native and Expo that supports disaster preparedness and emergency awareness for individuals in Singapore. SafeNation combines real-time environmental alerts, gamified preparedness tasks, emergency assistance features, and accessible safety resources into a single platform.
 
-Built as a Final Year Project for CM3070 — University of London.
+Built as a Final Year Project for CM3070 University of London.
 
---
 
 ## Features
 
